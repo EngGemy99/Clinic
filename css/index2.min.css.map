@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAQ,AAAA,EAAE,AAAA,CACE,OAAO,CAAC,IAAI,CACf,AACD,AAAA,EAAE,AAAA,CACE,OAAO,CAAC,IAAI,CACf,AACO,AAAA,EAAE,AAAA,CACE,OAAO,CAAC,IAAI,CACX,AACD,AAAA,EAAE,AAAA,CACE,OAAO,CAAC,IAAI,CACX,AACD,AAAA,EAAE,AAAA,CACE,OAAO,CAAC,IAAI,CACnB",
+    "sources": [
+        "index2.scss"
+    ],
+    "names": [],
+    "file": "index2.min.css"
+}
